@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Integrated and Meta Optics
 
-Repository for "Template".
+Repository for "Integrated and Meta Optics".
 
 
 ## Use instructions
