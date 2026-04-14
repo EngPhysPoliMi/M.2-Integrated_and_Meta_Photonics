@@ -1,4 +1,4 @@
-# M.1 - Integrated and Meta Photonics
+# M.2 - Integrated and Meta Photonics
 
 Repository for "Integrated and Meta Photonics".
 
