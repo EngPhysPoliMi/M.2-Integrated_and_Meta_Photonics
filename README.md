@@ -1,6 +1,6 @@
-# M.1 - Integrated and Meta Optics
+# M.1 - Integrated and Meta Photonics
 
-Repository for "Integrated and Meta Optics".
+Repository for "Integrated and Meta Photonics".
 
 
 ## Use instructions
